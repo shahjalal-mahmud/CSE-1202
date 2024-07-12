@@ -79,7 +79,7 @@ int main()
     Student student1(1538, "Preo", 85, 90, 92);
     Student student2(1539, "Shahjalal", 98, 88, 89);
 
-    cout << "Student 1 Details:\n";
+    cout << "\nStudent 1 Details:\n";
     student1.displayDetails();
 
     cout << "\nStudent 2 Details:\n";
